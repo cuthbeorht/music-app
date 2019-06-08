@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio files
+*.vs
+Debug/
+MusicApp/Debug
+*.vcxproj*
+
+# VSCode stuff
+.vscode/
