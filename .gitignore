@@ -36,6 +36,8 @@
 Debug/
 MusicApp/Debug
 *.vcxproj*
+*.pdb
+*.aps
 
 # VSCode stuff
 .vscode/
